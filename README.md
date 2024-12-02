@@ -12,7 +12,7 @@ The Palindrome Checker is a simple web application that allows users to check if
 - [License](#license)
 
 ## Demo
-You can try the Palindrome Checker [here](#).
+You can try the Palindrome Checker [here](https://qyuzet.github.io/js-c-palindrom-checker/).
 
 ## Features
 - **User Input**: A text input field for users to enter their text.
